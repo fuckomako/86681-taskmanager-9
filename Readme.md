@@ -1,7 +1,7 @@
 # Личный проект «Менеджер задач» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Мальнев](https://up.htmlacademy.ru/ecmascript/9/user/86681).
-* Наставник: `Неизвестно`.
+* Наставник: `Keks`.
 
 ---
 
